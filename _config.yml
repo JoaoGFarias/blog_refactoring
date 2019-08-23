@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   That's A Bug
 url: "http://thatsabug.com/"
 breadcrumbs: true
-twitter_username: username
-github_username: username
+twitter_username: JFThatsABug
+github_username: JoaoGFarias
 search: true
 
 # Build settings
@@ -56,30 +56,27 @@ author:
   avatar : "/assets/bio-photo.jpg"
   bio    : "Making educated guesses based on unreliable data provided by people who don't know what they want."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/JFThatsABug"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/JoaoGFarias"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/joaogfarias/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/JFThatsABug"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/JoaoGFarias"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/joaogfarias/"
 
 defaults:
   # _posts
