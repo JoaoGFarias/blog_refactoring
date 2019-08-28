@@ -14,7 +14,7 @@ excerpt: "Let's learn the basic components of JMeter, shall we?"
 
 ## What is JMeter?
 
-![JMeter]({{ "https://jmeter.apache.org/images/jmeter.png" | absolute_url }})
+{% include figure image_path="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" caption="" %}
 
 JMeter is a load testing tool designed and maintained by Apache released in 1998.
 It is written in Java, which makes it easy to run out-of-the-box in any system
@@ -45,7 +45,7 @@ For our purposes the Test Plan will serve only to name our project.
 
 Here we simply change the Test Plan name and JMeter updates it on the tree structure.
 
-![Test Plan Details]({{ "assets/jmeter/post1/test_plan_details.png" | absolute_url }})
+{% include figure image_path="assets/jmeter/post1/test_plan_details.png" alt="Test Plan Details" caption="Test Plan Details, where we name our set of interactions" %}
 
 ### Thread Groups: Execution Configuration
 

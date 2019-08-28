@@ -6,6 +6,10 @@ tags:
 categories:
   - blog
 excerpt: "A short report of my first experiences with Accessibility Testing for the Ministry of Testing Bloggers Club"
+header:
+  overlay_color: "#252a34"
+toc: true
+toc_icon: "cog"
 ---
 
 This post was motivated by the Bloggers Club from the Ministry of Testing Community.

@@ -28,4 +28,4 @@ If shows a yellow alert if the contrast can be improved to provide better visual
 
 Checkout how to use the new feature on the Developer Accessibility Tools on Youtube:
 
-{%include youtube.html link="https://www.youtube.com/embed/g2j5kYt00CQ" %}
+{% include video id="g2j5kYt00CQ" provider="youtube" %}
